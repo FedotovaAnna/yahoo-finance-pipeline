@@ -1,0 +1,10 @@
+# Core packages
+pyspark>=3.3.0
+pandas>=1.5.0
+yfinance>=0.2.0
+prophet>=1.1.4
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional (для правильного відображення графіків і коду)
+ipykernel
