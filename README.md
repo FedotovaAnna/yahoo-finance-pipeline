@@ -1,6 +1,6 @@
 Прогнозування акцій за секторами у Databricks з використанням Prophet
-📊 Stock Sector Forecasting in Databricks using Prophet
-📝 Опис проекту | Project Description
+Stock Sector Forecasting in Databricks using Prophet
+Опис проекту | Project Description
 UA:
 Цей проєкт реалізує повний ETL-пайплайн на платформі Databricks за допомогою медальйонної архітектури (Bronze → Silver → Gold) для аналізу та прогнозу цін акцій за секторами. Для прогнозування використовується модель Facebook Prophet.
 
@@ -74,7 +74,7 @@ perl
 Copy
 Edit
 %pip install prophet
-🧠 Майбутні покращення | Future Enhancements
+ Майбутні покращення | Future Enhancements
 UA: Прогноз по секторам, а не лише по тикерам.
 
 EN: Add sector-level (not just ticker-level) forecasting.
